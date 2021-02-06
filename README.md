@@ -38,18 +38,18 @@
 ![Employee-Directory](public/Assets/Employee-Directory-Screenshot.png)
 
 ## Links
-  * Deployed link to Heroku: 
-  * GitHub repository link:  https://github.com/muneebbwp/EmployeeDirectory.git
+  * Deployed link to Heroku: https://employee-directory-enxhis.herokuapp.com/
+  * GitHub repository link:  https://github.com/Enxhis/Employee-Directory
 
 ## Contribution
-  * Muneeb Ali
+  * Enxhi Salaj
 
 ## Licence
   ![License badge](https://img.shields.io/badge/license-MIT-green)
   
 ## Questions
   * If you have questions, email me at: enxhi_salaj@yahoo.com,
-
+  * GitHub Profile link: https://github.com/Enxhis
 
 
 
