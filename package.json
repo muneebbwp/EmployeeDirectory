@@ -1,6 +1,6 @@
 {
   "name": "employee-directory-app",
-  "version": "0.1.0",
+  "version": "0.1.0",heroku buildpacks:set heroku/nodejs
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
