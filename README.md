@@ -38,7 +38,7 @@
 ![Employee-Directory](public/Assets/Employee-Directory-Screenshot.png)
 
 ## Links
-  * Deployed link to Heroku: 
+  * Deployed link to GH Pages: 
   * GitHub repository link:  https://github.com/muneebbwp/Employee-Directory
 
 ## Contribution
